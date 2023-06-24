@@ -8,7 +8,6 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
      chrome.scripting.insertCSS({
       target: { tabId: tabId },
       files: ['css/global.css'],
-      // test
     });
   }
 });
