@@ -1,4 +1,4 @@
-# Reddit To Teddit
+# Less Annoying Twitter
 
 ## Abstract
 This browser extension hides the Twitter login bar shown to logged out users at the bottom of the page.
