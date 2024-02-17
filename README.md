@@ -1,4 +1,4 @@
-#Deprecation
+# Deprecation
 This browser extension is now deprecated after the many changes to Twitter in the past year. 
 
 # Less Annoying Twitter
